@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/mirageWebsite/precache-manifest.89568a5031dc5ee4d23021964ab40fda.js"
+  "/mirageWebsite/precache-manifest.1be7759db7ce032bcb7306f84649e0b8.js"
 );
 
 workbox.clientsClaim();

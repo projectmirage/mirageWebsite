@@ -1,7 +1,7 @@
 {
   "main.css": "/mirageWebsite/static/css/main.8a6cd003.chunk.css",
-  "main.js": "/mirageWebsite/static/js/main.5c481c71.chunk.js",
-  "main.js.map": "/mirageWebsite/static/js/main.5c481c71.chunk.js.map",
+  "main.js": "/mirageWebsite/static/js/main.850dda3e.chunk.js",
+  "main.js.map": "/mirageWebsite/static/js/main.850dda3e.chunk.js.map",
   "static/js/1.1f16e0dd.chunk.js": "/mirageWebsite/static/js/1.1f16e0dd.chunk.js",
   "static/js/1.1f16e0dd.chunk.js.map": "/mirageWebsite/static/js/1.1f16e0dd.chunk.js.map",
   "runtime~main.js": "/mirageWebsite/static/js/runtime~main.69c68cc9.js",
@@ -9,6 +9,6 @@
   "static/media/logo.svg": "/mirageWebsite/static/media/logo.5d5d9eef.svg",
   "static/css/main.8a6cd003.chunk.css.map": "/mirageWebsite/static/css/main.8a6cd003.chunk.css.map",
   "index.html": "/mirageWebsite/index.html",
-  "precache-manifest.89568a5031dc5ee4d23021964ab40fda.js": "/mirageWebsite/precache-manifest.89568a5031dc5ee4d23021964ab40fda.js",
+  "precache-manifest.1be7759db7ce032bcb7306f84649e0b8.js": "/mirageWebsite/precache-manifest.1be7759db7ce032bcb7306f84649e0b8.js",
   "service-worker.js": "/mirageWebsite/service-worker.js"
 }
